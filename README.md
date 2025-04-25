@@ -1,5 +1,5 @@
 # sales-forecasting-in-power-bi
-# Sales-Forecasting-in-Power-Bi
+
 
 Introduction
 In this report, we will explore the process of creating a comprehensive sales dashboard and implementing sales forecasting using Microsoft Power BI. Power BI is a powerful business intelligence tool that allows users to visualize and analyze data from various sources to gain insights and make informed decisions. In this project, we will focus on building a sales dashboard that provides real-time insights into sales performance and utilizes historical data for accurate sales forecasting.
